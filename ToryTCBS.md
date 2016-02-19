@@ -1,3 +1,5 @@
-Hotdog
-Add Chris Williams
-You're welcome
+Hotdog.
+
+Add Chris Williams.
+
+You're welcome.
